@@ -1,0 +1,27 @@
+h2{
+color:orange;
+}
+
+body{
+background-color:#305050; /* este e um comentario indicando que a cor de fundo sera a sujerida*/
+color: white;
+font-family:Roboto;
+text-align:center; /*centralizar o texto*/
+
+}
+
+header {
+  border-bottom: 1px solid grey;
+}
+footer{
+ border-top:1px solid grey;
+
+}
+
+#nome-usuário{
+  font-weight: bold;
+}
+
+.texto-inglês{
+ font-style: italic;
+ }
